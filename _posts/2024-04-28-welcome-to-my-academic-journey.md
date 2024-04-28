@@ -12,6 +12,8 @@ tags:
   - Education
 ---
 
+## Welcome!
+
 Welcome to my academic blog! Here you'll find a collection of posts about my research, insights into the field of paleoclimate modeling, and updates on my journey through the world of Earth Sciences at Nanjing University.
 
 I'll use this platform to share detailed write-ups of my projects, discussions on recent advancements in quantitative stratigraphy, and occasional reflections on my experiences as a master's student.
