@@ -2,7 +2,7 @@
 main:
   - title: "My Notes"
     url: http://18.180.22.38:8080/
-  - title: "About"
+  - title: "Team"
     url: https://onestratigraphy.ddeworld.org/
   # - title: "Sample Posts"
   #   url: /year-archive/

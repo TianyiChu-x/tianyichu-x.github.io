@@ -25,7 +25,7 @@ url                      : "https://tianyichu-x.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "tianyichu-x/tianyichu-x.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/new_logo.png"
+logo                     : "/assets/images/new_logo.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "Tianyi Chu"
-  avatar           : "/assets/tychu.png"
+  avatar           : "/assets/images/tychu.png"
   bio              : "Welcome to my personal webpage! I am a Master's student at the School of Earth Sciences and Engineering at Nanjing University. My research primarily focuses on paleoclimate modeling and quantitative stratigraphy. Through my studies, I aim to contribute to our understanding of historical climate patterns and their implications on geological formations."
   location         : "Nanjing, China"
   email            : "tychu@smail.nju.edu.cn"
