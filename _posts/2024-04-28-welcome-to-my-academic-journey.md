@@ -1,5 +1,8 @@
 ---
 title:  "Welcome to My Academic Journey!"
+toc: true
+toc_label: "Contents"
+toc_icon: "file-text"
 header:
   teaser: "/assets/images/bristol.png"
 categories: 
